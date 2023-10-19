@@ -18,6 +18,10 @@ body {
     opacity: 1;
     transition: opacity 500ms ease-in-out;
   }
+
+  p {
+    text-align: center;
+  }
   
   .removed {
     display: none;
