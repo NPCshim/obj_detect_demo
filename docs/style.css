@@ -30,7 +30,7 @@ body {
   .camView {
     position: relative;
     text-align: center;
-    float: left;
+    float: none;
     width: calc(100% - 20px);
     margin: 10px;
     cursor: pointer;
