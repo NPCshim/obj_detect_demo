@@ -38,6 +38,7 @@ body {
     width: calc(100% - 20px);
     margin: 10px;
     cursor: pointer;
+    margin: auto;
   }
   
   .camView p {
