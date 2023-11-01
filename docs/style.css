@@ -2,7 +2,7 @@ body {
     font-family: helvetica, arial, sans-serif;
     margin: 2em;
     color: #3D3D3D;
-    text-align: center;
+    text-align: left;
   }
   
   h1 {
@@ -21,9 +21,9 @@ body {
   }
 
   p {
-    text-align: center;
-  }
-  
+    text-align: left;
+  }  
+
   .removed {
     display: none;
   }
